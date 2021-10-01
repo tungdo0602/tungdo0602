@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tungdo0602
-- 👀 I’m interested in ??? 
-- 🌱 I’m currently learning Program language le
+- 🌱 I’m currently learning python
+- If my repository have any error please write issue
 
 <!---
 tungdo0602/tungdo0602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
