@@ -1,4 +1,4 @@
-# My discord is Tunggggggg#0965
+# My discord is Tunggg#0965
 # My stat
 # ![](https://komarev.com/ghpvc/?username=tungdo0602&color=blue)
 # [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungdo0602)](https://github.com/anuraghazra/github-readme-stats)
