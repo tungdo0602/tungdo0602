@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tungdo0602&label=Profile%20views&color=0e75b6&style=flat" alt="tungdo0602" /> </p>
 
-<h3 align="left">My Discord: Tunggg#5867</h3>
+<h3 align="left">My Discord: Tung#8401</h3>
 <p align="left">
 </p>
 
