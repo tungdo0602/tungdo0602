@@ -5,3 +5,4 @@
 <p align="center">    
     <img src="/github-metrics.svg">
 </p>
+<h3>My discord: Tung#8401</h3>
