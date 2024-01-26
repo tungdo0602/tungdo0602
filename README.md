@@ -6,4 +6,3 @@
     <img src="/github-metrics.svg">
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=tungdo0602">
-<h3>My discord: tungvn</h3>
